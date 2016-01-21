@@ -1,3 +1,5 @@
+#从PHP5到PHP7
+
 本文大部分内容参照“[Migrating from PHP 5.6.x to PHP 7.0.x](http://php.net/manual/en/migration70.php)”编写，主要是一些PHP7.x在实现上相较5.x的一些变化，给那些希望升级PHP 到7.x版本的童鞋参考。
 
 ##1. error 和 exception 的处理
