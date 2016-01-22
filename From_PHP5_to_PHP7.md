@@ -657,4 +657,4 @@ PHP7.x相较之前的版本的改变还是比较大的，同时到目前为止PH
 
 即便到目前为止都没有稳定版本放出，但是已经有很多web产品在生产环境中使用起来了，[点击查看](http://phpversions.info/php-7/)
 
-更多，[看这里](http://www.kkyfj.com/php/2016/01/02/from-PHP5-to-PHP7.html)
+了解更多，[PHP7的新特性](http://www.kkyfj.com/php/2016/01/21/PHP7-new-feature.html)
