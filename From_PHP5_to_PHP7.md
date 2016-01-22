@@ -346,7 +346,7 @@ var_dump(1 >> -1);
 
 ###4.4 除 0 问题
 
-PHP7中，如果0作为被除数，则会抛出`warning`，并返回`INF`或`NAN`；如果0作为被余数会抛出`DivisionByZeroError`错误，下面的🌰：
+PHP7中，如果0作为除数，则会抛出`warning`，并返回`INF`或`NAN`；如果0作为余数会抛出`DivisionByZeroError`错误，下面的🌰：
 
 ```php
 <?php
